@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3f70a0f74a9c5894391d0c8f61604baf
+guid: bcb3e5a389df9bb4dab129a171c25b20
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2792700611565279140
-    second: 2303.w026.n002.3330B.p1.3330_0
+      213: 8558797260635120529
+    second: red-crosshair-icon-transparent-background-7017516950339726vlr4kiksb_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2303.w026.n002.3330B.p1.3330_0
+      name: red-crosshair-icon-transparent-background-7017516950339726vlr4kiksb_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 7000
-        height: 2500
+        width: 800
+        height: 800
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a75d5ce86aa1c620800000000000000
-      internalID: 2792700611565279140
+      spriteID: 1932eb813c4f6c670800000000000000
+      internalID: 8558797260635120529
       vertices: []
       indices: 
       edges: []
